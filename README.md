@@ -33,3 +33,11 @@ CODSOFT_PYTHON_PROGRAMMING
   - Animated buttons and fading results  
   - Beautiful UI with hover effects  
 - **How It Works**: Click a choice (Rock, Paper, Scissors), and the game determines the winner with smooth animations.  
+
+## Task 5: Contact Book
+- **Tech Used**: Python, Tkinter, JSON  
+- **Features**:  
+  - Add, search, update, and delete contacts  
+  - Store contacts with Name, Phone, Email, and Address  
+  - Contacts are saved in a file for later use  
+- **How It Works**: Users enter contact details and manage them through a simple GUI.  
