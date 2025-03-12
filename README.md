@@ -24,3 +24,12 @@ CODSOFT_PYTHON_PROGRAMMING
   - User-defined password length  
 - **Enhancements**: UI with hover effects, real-time strength analysis  
 - **How It Works**: Users enter a password length, and the app generates a secure password while showing its strength.  
+
+## Task 4: Rock Paper Scissors Game (With Animations)
+- **Tech Used**: Python, Tkinter, Random Library  
+- **Features**: 
+  - Play against the computer  
+  - Score tracking (User vs Computer)  
+  - Animated buttons and fading results  
+  - Beautiful UI with hover effects  
+- **How It Works**: Click a choice (Rock, Paper, Scissors), and the game determines the winner with smooth animations.  
