@@ -14,3 +14,13 @@ CODSOFT_PYTHON_PROGRAMMING
 - **Features**: Basic Arithmetic (`+`, `-`, `*`, `/`), Scientific Functions (`sin`, `cos`, `tan`, `√`, `^`), Memory Storage (`M+`, `M-`, `MR`, `MC`)  
 - **Enhancements**: Dark Mode, Hover Effects, Keyboard Support  
 - **How It Works**: A user-friendly calculator that performs basic and scientific calculations.  
+
+## Task 3: Password Generator with Strength Checker
+- **Tech Used**: Python, Tkinter, Random Library  
+- **Features**: 
+  - Generates strong passwords 
+  - Strength Indicator (Weak 🔴, Medium 🟠, Strong 🟢) 
+  - Copy to Clipboard  
+  - User-defined password length  
+- **Enhancements**: UI with hover effects, real-time strength analysis  
+- **How It Works**: Users enter a password length, and the app generates a secure password while showing its strength.  
